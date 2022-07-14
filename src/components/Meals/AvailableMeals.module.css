@@ -1,0 +1,12 @@
+.title {
+  color: #3f3f3f;
+  align-items: center;
+}
+
+.price {
+  margin-right: 70%;
+}
+
+.meal {
+  animation: meals-appear 1s ease-out forwards;
+}

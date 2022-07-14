@@ -1,0 +1,12 @@
+.input Input {
+  margin-bottom: 0.5rem;
+}
+
+.input button {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #4d1601;
+  color: white;
+  border: none;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, rgba(0.2));
+}
